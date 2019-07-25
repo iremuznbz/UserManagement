@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.assignment.usermanagement.dao.UserDaoImplTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.628 sec - in com.assignment.usermanagement.dao.UserDaoImplTest

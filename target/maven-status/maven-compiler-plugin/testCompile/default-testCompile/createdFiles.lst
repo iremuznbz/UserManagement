@@ -1,0 +1,5 @@
+com/assignment/usermanagement/controller/UserControllerTest.class
+com/assignment/usermanagement/service/UserServiceImplTest.class
+com/assignment/usermanagement/dao/TestConfig.class
+com/assignment/usermanagement/util/TestDataFactory.class
+com/assignment/usermanagement/dao/UserDaoImplTest.class

@@ -1,0 +1,6 @@
+com/assignment/usermanagement/controller/UserController.class
+com/assignment/usermanagement/dao/UserDao.class
+com/assignment/usermanagement/dao/UserDaoImpl.class
+com/assignment/usermanagement/service/UserService.class
+com/assignment/usermanagement/service/UserServiceImpl.class
+com/assignment/usermanagement/model/User.class
